@@ -1,5 +1,11 @@
 # @hey-api/openapi-ts
 
+## 0.43.3
+
+### Patch Changes
+
+- fix: comment position in JavaScript enums ([#544](https://github.com/hey-api/openapi-ts/pull/544))
+
 ## 0.43.2
 
 ### Patch Changes
